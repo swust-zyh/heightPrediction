@@ -1,2 +1,0 @@
-# heightPrediction
-基于Matlab的图像物体实际尺寸检测系统
